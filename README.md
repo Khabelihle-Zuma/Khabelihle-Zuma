@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Khabelihle Zuma
 
-<!--
-**Khabelihle-Zuma/Khabelihle-Zuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Psychology graduate exploring the world of tech  
+💻 Currently learning HTML, CSS, and GitHub  
+🌱 Building beginner projects — like a [Weather App](https://khabelihle-zuma.github.io/weather-app/)  
+🧠 Interested in research, UX design, and tech for mental health  
+📍 Based in South Africa
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Current Programs & Courses
+- 👩‍💻 **SheCodes** – learning web development & responsive design  
+- 📱 **FNB App Academy** – part of App of the Year 2025 digital upskilling initiative  
+- 🧠 [**CBT Foundations on Alison**](https://alison.com/topic/learn/130957/the-underlying-principles-behind-cognitive-behavioural-therapy) – exploring the underlying principles behind Cognitive Behavioural Therapy
+
+---
+
+### 🚀 Projects
+- 🔗 [Weather App UI](https://khabelihle-zuma.github.io/weather-app/)
+- 🧩 More coming soon...
+
+---
+
+### 📫 Let's Connect!
+- ✉️ [Email me](mailto:khabelihle.zuma@gmail.com)
+
+---
+
+> “Learn by building. Grow by sharing.” – Me 🙃
